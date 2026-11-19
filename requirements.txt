@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+openai
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+nvidia-riva-client
